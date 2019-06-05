@@ -1,3 +1,7 @@
 notes for ideas on th site
 blah
 git
+
+Here is a good reference for ideas: www.theworldsworstwebsiteever.com/
+
+Let's add a rainbow background somehow?
