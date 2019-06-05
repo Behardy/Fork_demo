@@ -1,3 +1,7 @@
 textarea {
   display: block;
 }
+
+.large {
+  font-size: 3em;
+}
