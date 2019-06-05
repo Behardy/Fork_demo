@@ -1,6 +1,12 @@
+
 p{
     color:purple;
 }
 form{
     background-color:pink;
+}
+
+textarea {
+  display: block;
+
 }
