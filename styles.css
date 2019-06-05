@@ -8,9 +8,14 @@ form{
 
 textarea {
   display: block;
+}
+
+.large {
+  font-size: 3em;
 
 }
 .post{
   background-color:gray;
   text-decoration-color: black; 
+
 }
