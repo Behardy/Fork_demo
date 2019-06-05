@@ -10,3 +10,7 @@ textarea {
   display: block;
 
 }
+.post{
+  background-color:gray;
+  text-decoration-color: black; 
+}
